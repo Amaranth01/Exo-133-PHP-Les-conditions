@@ -82,7 +82,5 @@ case"5":
 //du code executé si x vaux 5
 break;
 default:
-//du code executé si aucune autre conditions n'est remplie
+//du code executé si aucunes autres conditions n'est remplie
 }
-
-
